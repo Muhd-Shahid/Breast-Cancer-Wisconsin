@@ -14,13 +14,13 @@ This folder holds the Python code connected to this 4 part article:
 
 With this code and the associated articles, you are going to learn:
 
--How to explore your data and find the hidde relationship between features using different kind of vusualization techniques?
+* How to explore your data and find the hidde relationship between features using different kind of vusualization techniques?
 
--How to extract meaningful significant features from the data using different kind of feature selection techniques.
+* How to extract meaningful significant features from the data using different kind of feature selection techniques.
 
--Create multiple models from scratch in python. Train and evaluate it.
+* Create multiple models from scratch in python. Train and evaluate it.
 
--Apply different modeling techniques to The Wisconsin Cancer Data-set. Predict if a tumor is benign or malignant, based on selected different features.
+* Apply different modeling techniques to The Wisconsin Cancer Data-set. Predict if a tumor is benign or malignant, based on selected different features.
 
 The data comes from The Wisconsin Cancer Data-set.
 This data was gathered by the University of Wisconsin Hospitals, Madison and by Dr. William H. Wolberg.
