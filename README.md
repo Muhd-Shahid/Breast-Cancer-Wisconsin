@@ -4,7 +4,8 @@
 #### Our objective is to identify which features are most helpful in predicting malignant or benign cancer and to classify whether the breast cancer is benign or malignant.
 
 Access the folder for the complete project with this link
-![Breast-Cancer-Wisconsin](https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/)
+
+[Breast-Cancer-Wisconsin](https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/)
 
 
 This folder holds the Python code connected to this 4 part article:
