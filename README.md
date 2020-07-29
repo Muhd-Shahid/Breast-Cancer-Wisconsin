@@ -10,7 +10,7 @@ Access the folder for the complete project with this link
 
 This folder holds the Python code connected to this 4 part article:
 
-Part 1(https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8) | Part 2(https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62) | Part 3 | Part 4
+[Part 1](https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8) | [Part 2](https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62) | Part 3 | Part 4
 
 With this code and the associated articles, you are going to learn:
 
