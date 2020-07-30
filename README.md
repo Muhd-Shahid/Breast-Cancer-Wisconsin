@@ -24,5 +24,8 @@ With this code and the associated articles, you are going to learn:
 The data comes from The Wisconsin Cancer Data-set.
 This data was gathered by the University of Wisconsin Hospitals, Madison and by Dr. William H. Wolberg.
 
+### Read more
+https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8
+
 ### Connect with me
 https://www.linkedin.com/in/muhammad-shahid-87938318/
