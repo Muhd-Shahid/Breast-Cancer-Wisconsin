@@ -13,7 +13,7 @@ This folder holds the Python code connected to this 4 part article:
 
 With this code and the associated articles, you are going to learn:
 
-* How to explore your data and find the hidde relationship between features using different kind of vusualization techniques?
+* How to explore your data and find the hidde relationship between features using different kind of visualization techniques?
 
 * How to extract meaningful significant features from the data using different kind of feature selection techniques.
 
