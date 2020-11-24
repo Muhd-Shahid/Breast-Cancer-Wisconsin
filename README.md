@@ -9,11 +9,11 @@ Access the folder for the complete project with this link
 
 This folder holds the Python code connected to this 4 part article:
 
-[Part 1](https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8) | [Part 2](https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62) | [Part 3](https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a) | [Part 4] (https://shahid-dhn.medium.com/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-8654994ca20a)
+[Part 1](https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8) | [Part 2](https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62) | [Part 3](https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a) | [Part 4](https://shahid-dhn.medium.com/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-8654994ca20a)
 
-With this code and the associated articles, you are going to learn:
+With this code and the associated articles, we are going to learn:
 
-* How to explore your data and find the hidde relationship between features using different kind of visualization techniques?
+* How to explore our data and find the hidde relationship between features using different kind of visualization techniques?
 
 * How to extract meaningful significant features from the data using different kind of feature selection techniques.
 
