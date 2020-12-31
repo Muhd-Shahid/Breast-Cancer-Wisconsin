@@ -1,0 +1,165 @@
+
+@font-face {
+  font-family: Raleway-Black;
+  src: url('../fonts/raleway/Raleway-Black.ttf');
+}
+
+@font-face {
+  font-family: Raleway-SemiBold;
+  src: url('../fonts/raleway/Raleway-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: Raleway-Bold;
+  src: url('../fonts/raleway/Raleway-Bold.ttf');
+}
+
+
+p{
+  line-height: 1.7;
+  color: black !important;
+  font-family: Raleway-SemiBold, sans-serif !important;
+  font-family: Raleway-SemiBold;
+  font-size: 22px !important;
+  text-align: justify;
+  margin-left: 3em;
+  margin-right: 3em;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+body, html {
+  height: 100%;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2px;
+  margin-bottom: 0.5%;
+  font-family: Raleway-SemiBold, sans-serif;
+}
+
+.container_main{
+  height: 100%;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2px;
+  margin-bottom: auto;
+	font-family: Raleway-SemiBold, sans-serif;
+  display: block;
+  background-color: #ebeff5;
+}
+
+a {
+	font-family: Raleway-SemiBold;
+	font-size: 14px;
+	line-height: 1.7;
+	color: #666666;
+	margin: 0px;
+}
+
+.main{
+  margin-top: 0.3vh;
+}
+
+a:focus {
+	outline: none !important;
+}
+
+a:hover {
+	text-decoration: none;
+}
+.highlight{
+  text-decoration: underline !important;
+  color: #9D50BB !important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin-bottom: 1px;
+}
+
+.main_heading{
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  font-size: 40px !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: #4f81bd;
+}
+
+input {
+  border-radius: 10px !important;
+  /*height: 43px !important;*/
+  width: 70%; 
+}
+
+label { 
+  float: right; 
+} 
+
+span { 
+  display: block; 
+  overflow: hidden; 
+  padding: 0px 4px 0px 6px; 
+} 
+
+button {
+  border-radius: 20px !important;
+	outline: none !important;
+  height: 40px !important;
+  width: 100px;
+  color: #ffffffff !important;
+  background: #4f81bd !important;
+  background: -webkit-linear-gradient(to right, #4f81bd, #4f81bd) !important;  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4f81bd, #4f81bd) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+button.btnsub{
+  float:right;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+table.t1 {
+  width:75%;
+  /*margin: 0em auto;*/
+  margin-left: 12%;
+  margin-top: 0%;
+  border: 1px border;
+  border-collapse: collapse;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.t1 th, .t1 td {
+  padding: 8px 8px;
+}
+.t1 thead th {
+  background: #4f81bd;
+  text-transform: uppercase;
+  text-align: left;
+  font-size: 17px;
+  color: #fff;
+}
+.t1 tr {
+  border-right: 1px solid #95b3d7;
+  border-left: 1px solid #95b3d7;
+}
+.t1 tbody tr {
+  border-bottom: 1px solid #95b3d7;
+}
+.t1 tbody tr:nth-child(odd) {
+  background: #dbe5f0;
+  border-right: 1px solid #95b3d7;
+}
+.t1 tbody tr:nth-child(even){
+  border-right: 1px solid #95b3d7;
+}
+
+.t1 tfoot th {
+  background: #4f81bd;
+  text-align: left;
+  font-weight: normal;
+  font-size: 10px;
+  color: #fff;
+}
