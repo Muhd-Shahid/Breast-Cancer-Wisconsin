@@ -20,7 +20,7 @@ p{
   color: black !important;
   font-family: Raleway-SemiBold, sans-serif !important;
   font-family: Raleway-SemiBold;
-  font-size: 22px !important;
+  font-size: 20px !important;
   text-align: justify;
   margin-left: 3em;
   margin-right: 3em;
@@ -29,17 +29,17 @@ p{
 }
 
 body, html {
-  height: 100%;
+  height: 110%;
   width: 85%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 2px;
-  margin-bottom: 0.5%;
+  margin-bottom: 0px;
   font-family: Raleway-SemiBold, sans-serif;
 }
 
 .container_main{
-  height: 100%;
+  height: 95%;
   width: 85%;
   margin-left: auto;
   margin-right: auto;
@@ -160,6 +160,6 @@ table.t1 {
   background: #4f81bd;
   text-align: left;
   font-weight: normal;
-  font-size: 10px;
-  color: #fff;
+  font-size: 15px;
+  color: rgb(247, 247, 247);
 }
