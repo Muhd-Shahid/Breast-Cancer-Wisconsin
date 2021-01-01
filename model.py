@@ -12,12 +12,13 @@ warnings.filterwarnings('ignore')
 
 ### Import Datset
 df = pd.read_csv("data_breast-cancer-wiscons.csv")
-
-
+# we change the class values (at the column number 2) from B to 0 and from M to 1
+df.iloc[:,1].replace('B', 0,inplace=True)
+df.iloc[:,1].replace('M', 1,inplace=True)
 
 ### Splitting Data
 
-X = df[['texture_mean', 'area_mean', 'concavity_mean', 'area_se', 'concavity_se','fractal_dimension_se','smoothness_worst','concavity_worst', 'symmetry_worst','fractal_dimension_worst']]
+X = df[['texture_mean','area_mean','concavity_mean','area_se','concavity_se','fractal_dimension_se','smoothness_worst','concavity_worst', 'symmetry_worst','fractal_dimension_worst']]
 y = df['diagnosis']
 
 from sklearn.model_selection import train_test_split
