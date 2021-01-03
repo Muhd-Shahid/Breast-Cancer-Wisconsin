@@ -25,6 +25,7 @@ The data comes from The Wisconsin Cancer Data-set.
 This data was gathered by the University of Wisconsin Hospitals, Madison and by Dr. William H. Wolberg.
 
 ### Read more
+https://shahid-dhn.medium.com/deploying-breast-cancer-prediction-model-using-flask-apis-and-heroku-4fd3b65b2f26
 https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8
 
 ### Connect with me
