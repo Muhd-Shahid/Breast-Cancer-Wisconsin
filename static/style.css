@@ -38,7 +38,7 @@ body, html {
   font-family: Raleway-SemiBold, sans-serif;
 }
 
-.container_main{
+/*.container_main{
   height: 95%;
   width: 85%;
   margin-left: auto;
@@ -48,7 +48,7 @@ body, html {
 	font-family: Raleway-SemiBold, sans-serif;
   display: block;
   background-color: #ebeff5;
-}
+}*/
 
 a {
 	font-family: Raleway-SemiBold;
